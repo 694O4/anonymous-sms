@@ -32,9 +32,6 @@ echo -e "\e[1;34m Created By \e[1;32m"  #blue color
 toilet -f mono12 -F border PH | lolcat
 echo -e "\e[4;34mThis Tool Is Created By Panda Hackers \e[0m" #underline+blue
 echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m        Mail: Hack3ry2j@gmail.com \e[0m" #yellow
-echo -e "\e[4;32mYouTube Page: https://youtube.com/c/PandaHackers/ \e[0m" #green
-echo -e "\e[1;34m    Telegram: https://t.me/ItzAnonSMS \e[0m"
 echo " "
 echo -e "\e[4;31mRead Instruction Carefully !!! \e[0m" #red
 echo " "
